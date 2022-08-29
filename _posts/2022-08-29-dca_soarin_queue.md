@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Getting Started with Sleek
-featured-img: sleek
+title: California Adventure, Soarin Queue
+featured-img: posts/dca_woarin_que.jpt
 mathjax: true
 ---
 
