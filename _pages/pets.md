@@ -9,7 +9,7 @@ classes: wide
 
 Sample document listing for the collection `_dr`.
 
-{% for post in site.dr %}
+{% for post in site.pages %}
   {% unless post.hidden %}
     {% include archive-single.html %}
   {% endunless %}
