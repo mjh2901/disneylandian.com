@@ -1,7 +1,7 @@
 ---
 layout: post
 title: California Adventure, Soarin Queue
-featured-img: posts/dca_soarin_que.jpg
+featured-img: /posts/dca_soarin_que.jpg
 mathjax: true
 ---
 
