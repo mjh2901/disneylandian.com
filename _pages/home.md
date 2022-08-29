@@ -14,9 +14,9 @@ excerpt: >
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "customizable"
-    title: "Super customizable"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
-    url: "/docs/configuration/"
+    title: "Disneyland Resort"
+    excerpt: "Music Loops from the Parks and other areas of the Disneyland resort."
+    url: "/dr/"
     #btn_class: "btn--primary"
     #btn_label: "Learn more"
   - image_path: /assets/images/mm-responsive-feature.png
