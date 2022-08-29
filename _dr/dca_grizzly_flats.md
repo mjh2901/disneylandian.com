@@ -1,5 +1,5 @@
 ---
-title: "Lhasa Apso"
+title: "DCA Grizzly Flats"
 excerpt: "The Lhasa Apso is a non-sporting dog breed originating in Tibet."
 ---
 
