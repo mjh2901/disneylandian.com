@@ -25,9 +25,9 @@ masthead_title           : # overrides the website title displayed in the masthe
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : "false" # false (default), "disqus", "discourse", "facebook", "staticman_v2", "staticman", "utterances", "giscus", "custom"
-  #disqus:
-  #  shortname            :
+  provider               : "disqus" # "false" (default), "disqus", "discourse", "facebook", "staticman_v2", "staticman", "utterances", "giscus", "custom"
+  disqus:
+    shortname            : mjh2901
   #discourse:
   #  server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   #facebook:
@@ -218,7 +218,7 @@ defaults:
       layout: single
       author_profile: false
       read_time: true
-      comments: true
+      comments: false
       share: true
       related: true
   # _pages
@@ -248,7 +248,7 @@ defaults:
       layout: single
       author_profile: false
       read_time: false
-      comments: false
+      comments: gtrue
       share: false
       related: true
   # _other
@@ -259,7 +259,7 @@ defaults:
       layout: single
       author_profile: false
       read_time: false
-      comments: false
+      comments: true
       share: false
       related: true
    # _wdw
@@ -270,7 +270,7 @@ defaults:
       layout: single
       author_profile: false
       read_time: false
-      comments: false
+      comments: true
       share: false
       related: true     
   # _portfolio
