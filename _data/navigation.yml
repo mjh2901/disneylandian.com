@@ -26,10 +26,6 @@ main:
     url: /wdw/
   - title: "Other"
     url: /other/
-  - title: "About"
-    url: /about/
-  - title: "Terms &amp; Privacy Policy"
-    url: /terms/
 
 
 # documentation links
@@ -42,10 +38,6 @@ docs:
         url: /wdw/
       - title: "Other"
         url: /other/
-      - title: "About"
-        url: /about/
-      - title: "Terms &amp; Privacy Policy"
-        url: /terms/
   - title: Content
     children:
       - title: "Working with Posts"
