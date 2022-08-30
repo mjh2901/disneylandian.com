@@ -249,7 +249,6 @@ defaults:
     values:
       layout: single
       author_profile: false
-      date: false
       read_time: false
       comments: false
       share: false
