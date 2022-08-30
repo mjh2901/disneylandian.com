@@ -12,8 +12,6 @@ header:
     #  url: "https://unsplash.com"
 ---
 
-
-
 | --- | --- | --- | --- |
 | Song | Artist | Album |
 | The Sunny Vista | Rupert Gregson Willams | Bedtime Stories |
