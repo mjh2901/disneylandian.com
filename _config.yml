@@ -242,10 +242,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _pets
+  # _dr
   - scope:
       path: ""
-      type: pets
+      type: dr
     values:
       layout: single
       author_profile: true
