@@ -8,8 +8,8 @@ header:
   #caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   teaser: /assets/images/dca_grizzly_flats.jpg
   actions:
-    - label: "More Info"
-      url: "https://unsplash.com"
+    #- label: "More Info"
+    #  url: "https://unsplash.com"
 ---
 
 
