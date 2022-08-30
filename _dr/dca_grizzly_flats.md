@@ -12,9 +12,9 @@ header:
 ---
 
 
-|     |     |     |     |
 | --- | --- | --- | --- |
-| Song | Artist | Album | Purchased |
+| --- | --- | --- | --- |
+| Song | Artist | Album |
 | The Sunny Vista | Rupert Gregson Willams | Bedtime Stories |
 | Watch Hill | Tim Janus | Music of hope |
 | The Great Plains | Patrick Doyle | Impressions of America |
