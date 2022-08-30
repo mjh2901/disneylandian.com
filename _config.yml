@@ -193,7 +193,7 @@ collections:
   recipes:
     output: true
     permalink: /:collection/:path/
-  pets:
+  dr:
     output: true
     permalink: /:collection/:path/
   portfolio:
