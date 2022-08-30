@@ -196,6 +196,12 @@ collections:
   dr:
     output: true
     permalink: /:collection/:path/
+  other:
+    output: true
+    permalink: /:collection/:path/
+  wdw:
+    output: true
+    permalink: /:collection/:path/    
   portfolio:
     output: true
     permalink: /:collection/:path/
@@ -253,8 +259,28 @@ defaults:
       comments: false
       share: false
       related: true
-      last_modified_at: false
-
+  # _other
+  - scope:
+      path: ""
+      type: other
+    values:
+      layout: single
+      author_profile: false
+      read_time: false
+      comments: false
+      share: false
+      related: true
+   # _wdw
+  - scope:
+      path: ""
+      type: wdw
+    values:
+      layout: single
+      author_profile: false
+      read_time: false
+      comments: false
+      share: false
+      related: true     
   # _portfolio
   - scope:
       path: ""

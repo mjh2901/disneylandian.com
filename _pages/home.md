@@ -22,14 +22,14 @@ feature_row:
     alt: "Walt Disney World"
     title: "Walt Disney World"
     excerpt: "Music Loops from the Parks and other areas of the Walt Disney World resort."
-    url: "/docs/layouts/"
+    url: "/wdw/"
     #btn_class: "btn--primary"
     #btn_label: "Learn more"
-  - image_path: /assets/images/mm-free-feature.png
+  - image_path: /assets/images/other.png
     alt: "Other Parks and Properties"
     title: "Other Parks and Properties"
     excerpt: "Music Loops from other Disney Parks and Properties."
-    url: "/docs/license/"
+    url: "/other/"
     #btn_class: "btn--primary"
     #btn_label: "Learn more"      
 ---
