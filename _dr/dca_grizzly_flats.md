@@ -12,7 +12,7 @@ header:
 ---
 
 
-| --- | --- | --- | --- |
+
 | --- | --- | --- | --- |
 | Song | Artist | Album |
 | The Sunny Vista | Rupert Gregson Willams | Bedtime Stories |
