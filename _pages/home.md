@@ -11,14 +11,14 @@ header:
 excerpt: "Dedicated to the backround music in Disney Parks.<br />"
   
 feature_row:
-  - image_path: /assets/images/mm-customizable-feature.png
+  - image_path: /assets/images/dr.jpg
     alt: "Disneyland Resort"
     title: "Disneyland Resort"
     excerpt: "Music Loops from the Parks and other areas of the Disneyland resort."
     url: "/dr/"
     #btn_class: "btn--primary"
     #btn_label: "Learn more"
-  - image_path: /assets/images/mm-responsive-feature.png
+  - image_path: /assets/images/wdw.jpg
     alt: "Walt Disney World"
     title: "Walt Disney World"
     excerpt: "Music Loops from the Parks and other areas of the Walt Disney World resort."
