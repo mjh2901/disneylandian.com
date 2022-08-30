@@ -8,8 +8,7 @@ header:
   #actions:
     #- label: "<i class='fas fa-download'></i> Install now"
     #  url: "/docs/quick-start-guide/"
-excerpt: >
-  Dedicated to the backround music in Disney Parks.<br />
+excerpt: "Dedicated to the backround music in Disney Parks.<br />"
   
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
