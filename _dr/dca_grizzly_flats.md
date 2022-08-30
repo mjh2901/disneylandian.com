@@ -2,6 +2,7 @@
 title: "DCA Grizzly Flats"
 excerpt: "Music Loop."
 collection: "dr"
+showdate: false
 header:
   overlay_image: /assets/images/dca_grizzly_flats.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
