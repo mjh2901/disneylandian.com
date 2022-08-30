@@ -25,7 +25,7 @@ feature_row:
     url: "/wdw/"
     #btn_class: "btn--primary"
     #btn_label: "Learn more"
-  - image_path: /assets/images/other.png
+  - image_path: /assets/images/other.jpg
     alt: "Other Parks and Properties"
     title: "Other Parks and Properties"
     excerpt: "Music Loops from other Disney Parks and Properties."
