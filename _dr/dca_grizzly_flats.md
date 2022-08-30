@@ -1,9 +1,9 @@
 ---
 title: "DCA Grizzly Flats"
-excerpt: "The Lhasa Apso is a non-sporting dog breed originating in Tibet."
+excerpt: "Music Loop."
 collection: "dr"
 header:
-  image: /assets/images/dca_grizzly_flats.jpg
+  overlay_image: /assets/images/dca_grizzly_flats.jpg
   teaser: assets/images/dca_grizzly_flats.jpg
 ---
 
