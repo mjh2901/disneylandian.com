@@ -14,10 +14,8 @@ header:
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/6XsD9nsmdNXaPdn5GIbBJ9?utm_source=generator&theme=0" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-
-
-| --- | --- | --- | --- |
 | Song | Artist | Album |
+| --- | --- | --- | --- |
 | The Sunny Vista | Rupert Gregson Willams | Bedtime Stories |
 | Watch Hill | Tim Janus | Music of hope |
 | The Great Plains | Patrick Doyle | Impressions of America |
