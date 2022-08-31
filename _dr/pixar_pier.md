@@ -27,30 +27,27 @@ Track List
 | --- | --- | --- |
 | Up With the Titles | Michael Giacchino | Up |
 | Carl Goes Up | Michael Giacchino | Up |
-| The Great Plains | Patrick Doyle | Impressions of America |
-| Summer’s Glory | Tim Janus | American Horizon |
-| Hillside Meadow | Tim Janus | American Horizons |
-| American Horizons | Tim Janus | American Horizons |
-| The Rocky Mountains | Tim Janus | American Horizons |
-| The Buffalo Hunt | John Barry | Dances with Wolves |
-| Homeland | Hans Zimmer | Spirit: Stallion of the Cimarron |
-| The Trees | Jerry Goldsmith | Medicine man |
-| Opening |     | Angels in the Outfield |
-| Under the Lighthouse | Tim Janus | A Quit Shore |
-| Finali #1 | Randy Edelman | Dragonheart |
-| March to Mortality | Randy Edelman | Gettysburg |
-| Leaving Birch Ridge | Joel McNeely | Iron Will |
-| Crossing the Line | Joel McNeely | Iron Will |
-| Finali #1 | Randy Edelman | Dragonheart |
-| Angel Falls | George Fenton | Planet Earth |
-| A Quiet Shore | Tim Janus | Water’s Edge |
-| The Patriot (Reprise) | John Williams | The Patriot |
-| Point Reyes | Tim Janus | Coastal America |
-| Grand Isle | Tim Janus | Angels in the Outfield |
-| The End Title | Randy Newman | The Natural |
-| To the Pacific | Sam Cardon | Lewis and Clarke: Great Journey |
-| Music of Hope | Various Artists | Music of Hope |
-| Learning Montage | John Debney | Swing Vote |
-| Beautiful America | Tim Janus | Beautiful America |
-| Eight Below Overture | Mark Isham | Eight Below |
-| Fairy Dusted Festival | Joel McNeely | The Music From The Pirate Fairy |
+| Dept. of Family Reunions || Coco |
+| The Scare Floor || Monsters Inc. |
+| A Bug’s Life Suite from a Bug’s Land ||A Bug’s Life|
+| Merida’s Home ||Brave|
+| Field Trip ||Finding Nemo|
+| First Day ||Finding Nemo|
+| Gnarly Chop ||Finding Dory|
+| End Creditouilles ||Ratatouille|
+| Walk to Work ||Monsters Inc.|
+| Up With End Credits ||Up|
+| Fireflies ||The Good Dinosaur|
+| Fate and Destiny ||Brave|
+| Define Dancing ||WALL-E|
+| Sulley and Mike ||Monsters Inc.|
+| Fiesta Con De La Cruz ||Coco|
+| Run with the Herd ||The Good Dinosaur|
+| Fish Who Wander ||Finding Dory|
+| The Turtle Lope ||Finding Nemo|
+| End Creditouilles Continued ||Ratatouille|
+| Monsters, Inc.  ||Monsters Inc.|
+| A Bug’s Life Suite ||A Bug’s Life|
+| WALL-E ||WALL-E|
+| Eve ||WALL-E|
+| Remy Drives a Linguini ||Ratatouille|
