@@ -14,13 +14,13 @@ locale                   : "en-US"
 title                    : "The Disneylandian"
 title_separator          : "-"
 subtitle                 : "Music in the Parks"
-name                     : &name "Mike hathaway" # &name is a YAML anchor which can be *referenced later
+name                     : &name "The Disneylanidan" # &name is a YAML anchor which can be *referenced later
 description              : &description "A site dedcicated to the background music on Disney properties."
 url                      : "https://disneylandian.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 #baseurl                  : "/minimal-mistakes" # the subpath of your site, e.g. "/blog"
 repository               : "mjh2901/disneylandian.com"
 teaser                   : "/assets/images/dr.jpg"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "/assets/images/logo.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
